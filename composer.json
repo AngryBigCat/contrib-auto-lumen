@@ -1,5 +1,5 @@
 {
-  "name": "new999day/opentelemetry-auto-lumen",
+  "name": "angry-big-cat/opentelemetry-auto-lumen",
   "description": "OpenTelemetry auto-instrumentation for Lumen",
   "keywords": ["opentelemetry", "otel", "open-telemetry", "tracing", "lumen", "instrumentation"],
   "type": "library",
